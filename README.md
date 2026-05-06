@@ -2,7 +2,7 @@
 
 Welcome to my first repository!
 
-##  Features
+## Features
 - Simple project structure
 - Beginner-friendly
 - Uses Markdown formatting
