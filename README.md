@@ -1,15 +1,15 @@
-# 🎬 Dev App
+#  Dev App
 
 Welcome to my first repository!
 
-## 📌 Features
+##  Features
 - Simple project structure
 - Beginner-friendly
 - Uses Markdown formatting
 
-## 🎥 Favorite Series
-Watch here:
-https://www.youtube.com/watch?v=ORdB5mX6t0Y
+##  Favorite Series
+Watch https://youtu.be/dCyvk3uyp5Q?si=x2fEnbBmkJoSCXXH
+
 
 ## 🛠️ Improvements
 1. Added headings
@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=ORdB5mX6t0Y
 3. Added a video link
 
 ## 📷 Image
-![Sample](https://via.placeholder.com/150)
+![Sample] https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/GINNYGEORGIA-Vertical-Main-RGB-US.jpg
